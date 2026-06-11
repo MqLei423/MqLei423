@@ -6,7 +6,7 @@ I also love learning new technologies and building interesting side projects.
 
 ---
 
-## 🛠️ Tech I work with
+## Tech I work with
 
 **Languages**
 
@@ -40,7 +40,7 @@ I also love learning new technologies and building interesting side projects.
 
 ---
 
-## 🔭 What I'm up to
+## What I'm up to
 
 - Actively looking for Summer 2026 internship / New Grad 2027 SWE roles
 - Pursuing my MCS degree at **UIUC**
@@ -49,7 +49,7 @@ I also love learning new technologies and building interesting side projects.
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mengqi-lei/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:simonlei9889@gmail.com)
@@ -57,6 +57,6 @@ I also love learning new technologies and building interesting side projects.
 
 ---
 
-## ✈️ Non-tech things that I do
+## Non-tech things that I do
 
 - I run a YouTube channel → [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@MqLei)
