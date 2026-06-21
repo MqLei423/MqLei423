@@ -1,6 +1,6 @@
 # Hey, I'm MengQi 👋
 
-I'm a CS Master's student at **UIUC** who enjoys building things across the full stack — web apps, games, and mobile.
+I'm a CS Master's student at **UIUC** who enjoys building things across the full stack — web apps, mobile, and games.
 
 I also love learning new technologies and building interesting side projects.
 
@@ -31,21 +31,21 @@ I also love learning new technologies and building interesting side projects.
 
 **Cloud & Databases**
 
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
 ---
 
 ## What I'm up to
 
-- Actively looking for Summer 2026 internship / New Grad 2027 SWE roles
+- Actively looking for 2027 University Grad SWE/SDE roles
 - Pursuing my MCS degree at **UIUC**
+- Building full-stack web apps in my current internship, and in my free time
 - Previously built gameplay systems during internship using Unity & C#
-- Building full-stack web apps
 
 ---
 
