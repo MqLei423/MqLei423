@@ -42,7 +42,7 @@ I also love learning new technologies and building interesting side projects.
 
 ## What I'm up to
 
-- Actively looking for 2027 University Grad SWE/SDE roles
+- Actively looking for 2027 University Grad SWE/AI Engineer roles
 - Pursuing my MCS degree at **UIUC**
 - Building full-stack web apps in my current internship, and in my free time
 - Previously built gameplay systems during internship using Unity & C#
